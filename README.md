@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Python developer with expertise in web scraping, automations, Python applications, and web development.As a lifelong learner, I continuously seek new knowledge and stay updated with the latest advancements in programming and data science. I am passionate about exploring new domains and taking on ambitious projects that stretch my capabilities.
+I'm a Python developer with expertise in web scraping, automations, Python applications, and web development.As a lifelong learner, I continuously seek new knowledge and stay updated with the latest advancements in programming and data science. I am passionate about exploring new domains and taking on ambitious projects that stretch my capabilities.Outside of coding, I enjoy savoring a good cup of coffee, reading tech blogs, and engaging in outdoor activities. Connecting with like-minded individuals and being part of a thriving tech community provides me with constant inspiration and motivation.
 
 
 ## 🌐 Socials:
