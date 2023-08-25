@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7UZxkvMc2ZUIkYYBpacA5W4djYEwIRRhRkWap6WgUAqy23PLp8YWkBYJPkY7cO2OJIGnMwCgaglR7G2nvAAOkncMG85LXDppUk0MxtbTjDJXdGteUMc6-ZZRT3ZujDGamSwV7k6zZxc2bvWMHprpn27LQwWB-17Nm0SOv2bE8aC7C2BH2A7zVVd6o/s1920/engineer.jpg))]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://timelinecovers.pro/facebook-cover/download/programming-think-twice-code-once-facebook-cover.jpg)
 <h1 align="center">Hi 👋, I'm Sandun Wijethunga</h1>
 <h3 align="center">A passionate Python developer from Sri Lanka</h3>
-<img justify-content="center" alt="Coding" width="400" src="https://media.tenor.com/kjXMU4dl8lAAAAAC/hello-world.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/kjXMU4dl8lAAAAAC/hello-world.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandun-wijethunga&label=Profile%20views&color=0e75b6&style=flat" alt="sandun-wijethunga" /> </p>
 
