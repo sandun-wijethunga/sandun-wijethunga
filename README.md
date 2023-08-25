@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm a Python developer with expertise in web scraping, automations, Python applications, and web development.As a lifelong learner, I continuously seek new knowledge and stay updated with the latest advancements in programming and data science. I am passionate about exploring new domains and taking on ambitious projects that stretch my capabilities.Outside of coding, I enjoy savoring a good cup of coffee, reading tech blogs, and engaging in outdoor activities. Connecting with like-minded individuals and being part of a thriving tech community provides me with constant inspiration and motivation.
+I'm a Python developer with specialized skills in web scraping, automation, Python applications, and web development. My dedication to learning is unwavering, as I continuously seek new knowledge and stay updated with the latest trends in programming and data science. I thrive on exploring novel domains and embracing ambitious projects that push my limits.
 
+Beyond coding, you'll find me savoring a perfect cup of coffee, engrossed in tech blogs, and enjoying outdoor adventures. Connecting with fellow enthusiasts and contributing to a vibrant tech community consistently fuels my inspiration and keeps me motivated.
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Sandun_EYG) 
